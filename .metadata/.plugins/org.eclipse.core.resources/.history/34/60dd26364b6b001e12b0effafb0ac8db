@@ -1,0 +1,25 @@
+package com.tute;
+
+import org.hibernate.cfg.Configuration;
+
+import com.mysql.cj.xdevapi.SessionFactory;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Project Started");
+        Configuration cfg=new Configuration();
+        cfg.configure("hibernate.cfg.xml");
+        SessionFactory factory=(SessionFactory) cfg.buildSessionFactory();
+//        SessionFactory factory = (SessionFactory) new Configuration().configure().buildSessionFactory();
+        
+        
+        System.out.println(factory);
+    
+    }
+}

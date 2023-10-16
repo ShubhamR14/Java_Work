@@ -1,0 +1,89 @@
+package pattern;
+
+public class _26_pattern {
+	public static void main(String[] args) {
+		
+		char i;
+		char j;
+		
+/*
+AAAAA
+BBBBB
+CCCCC
+DDDDD
+EEEEE
+*/
+//		for(i='A';i<='E';i++)
+//		{
+//			for(j='A';j<='E';j++)
+//			{
+//				System.out.print(i);
+//			}
+//			System.out.println();
+//		}
+		
+/*
+ABCD
+ABCD
+ABCD
+ABCD
+ABCD 
+ */
+//		for(i='A';i<='E';i++) {
+//			for(j='A';j<'E';j++) {
+//				System.out.print(j);
+//			}
+//			System.out.println();
+//		}
+		
+		
+/*
+EEEEE
+DDDDD
+CCCCC
+BBBBB
+AAAAA
+ */
+		
+//		for(i='E';i>='A';i--) {
+//			for(j='E';j>='A';j--) {
+//				System.out.print(i);
+//			}
+//			System.out.println();
+//		}
+		
+		
+/*
+ EDCBA
+ EDCBA
+ EDCBA
+ EDCBA
+ EDCBA
+ */
+//		for(i='E';i>='A';i--) {
+//			for(j='E';j>='A';j--) {
+//				System.out.print(j);
+//			}
+//			System.out.println();
+//		}
+		
+/*
+ 
+ */
+		char n='A';
+		for(i='A';i<=n;i++) {
+			for(j='A';j<=n;j++) {
+				System.out.print(n);
+				n++;
+			}
+			System.out.println();
+		}
+		
+		
+		
+		
+		
+		
+		
+	}
+}

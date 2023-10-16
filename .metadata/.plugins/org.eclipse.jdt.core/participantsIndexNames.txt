@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1043123468.index
+\Servlet_Email_Pass_2\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1473395551.index
+\JSPWebapp_First\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\306571679.index
+\Servlet_Register_LoginPage\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\527353163.index
+\JSP_Tags_First\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\672644554.index
+\Servlet_ExpressionLanguage\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1529098896.index
+\JspImplicit_Object\src\main\java
+C:\Users\User\Desktop\Practice_Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\530493177.index
+\Servlet_Register_LoginPage\src\main\java

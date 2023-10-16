@@ -1,0 +1,42 @@
+package star_pattern;
+
+public class Start_from_34_pattern {
+
+	public static void main(String[] args) {
+
+		int i,j;
+		
+/*
+*
+**
+***
+****
+*****
+ */
+//		int i,j,n=4;
+//		for(i=0;i<=n;i++) {
+//			for(j=0;j<=i;j++) {
+//				System.out.print('*');
+//			}
+//			System.out.println();
+//		}
+		
+/*
+ 1
+ 12
+ 123
+ 1234	
+ */
+		int n=4;
+		for(i=1;i<=n;i++) {
+			for(j=1;j<=i;j++) {
+				System.out.print(i);
+			}
+			System.out.println();
+		}
+			
+		
+		
+	}
+
+}
